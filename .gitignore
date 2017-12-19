@@ -16,3 +16,5 @@ nbproject/
 /nbproject/private/
 /nbproject/private/private.properties
 data
+log/access.log
+web/paperscope.cn
